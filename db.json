@@ -1,0 +1,26 @@
+{
+  "clientes": [
+    {
+      "id": "dfafs",
+      "nome": "Thiago Xavier",
+      "endereco": "aaaaa",
+      "telefone": "123456789"
+    },
+    {
+      "id": "ddsaf",
+      "nome": "Deborah Aarão"
+    },
+    {
+      "id": "yGjW3",
+      "nome": "Clara aarão",
+      "endereco": "aaaaa",
+      "telefone": "Xavier"
+    },
+    {
+      "id": "AsVaC",
+      "nome": "thiago souza",
+      "endereco": "aaaaa",
+      "telefone": "xavier"
+    }
+  ]
+}
